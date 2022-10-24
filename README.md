@@ -3,7 +3,10 @@
 
 本リポジトリにアップしたモデルは、たった20枚の画像を訓練に使用するだけで、画素数を4倍にする超解像を学習する。
 
-![プレゼンテーション1](https://user-images.githubusercontent.com/89577008/197285430-d9e1c842-feea-40ff-b17a-fb07792bafd4.jpg)
+![1](https://user-images.githubusercontent.com/89577008/197629716-e36eb223-8f36-4d68-b26d-c0fb39db9967.jpg)
+
+![2](https://user-images.githubusercontent.com/89577008/197629739-cf5fc962-09c4-4bfa-8e2c-4b0d28086b66.jpg)
+
 
 # 使用方法
 ## 動作環境
